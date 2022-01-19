@@ -1,0 +1,6 @@
+class lopcha(){
+int cuacha;
+
+
+
+}
